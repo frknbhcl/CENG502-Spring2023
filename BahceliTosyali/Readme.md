@@ -1,4 +1,4 @@
-# Paper title [@TODO: Change]
+# MARINA: An MLP-Attention Model for Multivariate Time-Series Analysis
 
 This readme file is an outcome of the [CENG502 (Spring 2023)](https://ceng.metu.edu.tr/~skalkan/ADL/) project for reproducing a paper without an implementation. See [CENG502 (Spring 20223) Project List](https://github.com/CENG502-Projects/CENG502-Spring2023) for a complete list of all paper reproduction projects.
 
